@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/campus-coder-project/static/css/main.98b5908d.css",
+    "main.js": "/campus-coder-project/static/js/main.4ddae257.js",
+    "static/js/787.a5abba30.chunk.js": "/campus-coder-project/static/js/787.a5abba30.chunk.js",
+    "index.html": "/campus-coder-project/index.html",
+    "main.98b5908d.css.map": "/campus-coder-project/static/css/main.98b5908d.css.map",
+    "main.4ddae257.js.map": "/campus-coder-project/static/js/main.4ddae257.js.map",
+    "787.a5abba30.chunk.js.map": "/campus-coder-project/static/js/787.a5abba30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98b5908d.css",
+    "static/js/main.4ddae257.js"
+  ]
+}
